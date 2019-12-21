@@ -11,3 +11,4 @@ migrations/
 .history/
 debug.log
 .idea/workspace.xml
+media/
