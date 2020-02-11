@@ -1,5 +1,5 @@
 asgiref==3.2.3
-Django==3.0
+Django==2.2.10
 django-environ==0.4.5
 django-mysql==3.3.0
 django-six==1.0.4
