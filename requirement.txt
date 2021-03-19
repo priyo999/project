@@ -4,7 +4,7 @@ django-environ==0.4.5
 django-excel-response2==2.0.8
 django-mysql==3.3.0
 django-six==1.0.4
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 mysqlclient==1.4.6
 pdfminer==20191016
 pycryptodome==3.9.4
@@ -20,7 +20,7 @@ django-environ==0.4.5
 django-excel-response2==2.0.8
 django-mysql==3.3.0
 django-six==1.0.4
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 idna==2.8
 mysqlclient==1.4.6
 pdfminer==20191016
